@@ -4,4 +4,5 @@ A new project.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This is a Self-Sovereign Identity Digital Wallet as a semester Project.
+
